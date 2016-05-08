@@ -1,2 +1,5 @@
 # hello-word
-Just a test repository
+A test repository
+C++ Primer
+Python
+Golang
