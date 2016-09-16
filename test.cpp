@@ -1,3 +1,0 @@
-baidu
-liuzekun
-oswitch
